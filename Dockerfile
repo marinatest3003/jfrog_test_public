@@ -14,4 +14,4 @@ RUN git clone https://github.com/marinatest3003/jfrog_test_public.git
 
 WORKDIR /home/jfrog/jfrog_test_public.git
 
-#CMD ["python3",“./menu.py”, “-p”,“--list", "marina","HireMeJFrog!"] !!cewfcwe
+#CMD ["python3",“./menu.py”, “-p”,“--list", "marina","HireMeJFrog!"] !!cewfcwehjhvj
